@@ -16,14 +16,17 @@ The investigation analysed Chrome History SQLite databases and controlled recrea
 
    
 **Methodology**
+
 The databases were preserved and hashed before analysis. SQLite records were examined read-only, Chrome timestamps were converted to UTC, and related browser activity was grouped into logical sequences.
 
 The evidence was then compared against each stage of the seven-stage hypothesis.
 
 
 **Limitations**
+
 Some websites were blocked and several URLs could not be loaded during the investigation. This prevented certain pages from being fully analysed or independently verified.
 
 
 **Conclusion**
+
 The available evidence supports several stages of the hypothesis, but some findings remain limited due to inaccessible websites and URLs. The conclusions are therefore based on the browser artefacts and records that were available for analysis.
